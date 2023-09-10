@@ -8,8 +8,6 @@
  
 - 📄 Myportfolio website  [https://beautiful-duckanoo-5b6391.netlify.app](https://beautiful-duckanoo-5b6391.netlify.app)
   
-- 🔭 I’m currently working on [MailBox-App](https://tubular-truffle-0cc87b.netlify.app)
-
 - 🌱 I’m currently learning **Frameworks, libraries and databases.**
 
 - 💬 Ask me about **Full-stack development.*
