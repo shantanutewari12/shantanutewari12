@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shantanutewari12](https://linktr.ee/shantanutewari12)
  
-- 📄 Myportfolio website  [https://beautiful-duckanoo-5b6391.netlify.app](https://beautiful-duckanoo-5b6391.netlify.app)
+- 📄 Myportfolio website  [https://shantanut-portfolio.netlify.app](https://shantanut-portfolio.netlify.app)
   
 - 🌱 I’m currently learning **Frameworks, libraries and databases.**
 
