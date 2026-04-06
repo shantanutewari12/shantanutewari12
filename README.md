@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shantanutewari12](https://linktr.ee/shantanutewari12)
  
-- 📄 Myportfolio website  [shantanu-portfolio12.app](https://my-portfolio-websitee.vercel.app/)   
+- 📄 Myportfolio website  [portfolio-shantanu.app](https://portfoliooo-shantanu.vercel.app/)
   
 - 🌱 I’m currently learning **Frameworks, libraries and databases.**
 
