@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<br/><br/>
+  <br/><br/>
 # Hey there, I'm Shantanu Tiwari 👋
 
 ### Full-stack Developer · Building modern web experiences
