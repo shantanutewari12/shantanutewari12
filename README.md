@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header Banner -->
-![header](https://github.com/shantanutewari12/shantanutewari12/blob/main/github-header-image%20(1).png)
 
 <br/>
 
