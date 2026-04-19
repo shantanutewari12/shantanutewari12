@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
 
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shantanutewari12&label=Profile+views&color=7F77DD&style=flat" alt="profile views" />
 <br/><br/>
 # Hey there, I'm Shantanu Tiwari 👋
 
