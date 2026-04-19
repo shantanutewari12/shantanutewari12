@@ -1,14 +1,4 @@
-<div align="center">
 
-<!-- Header Banner -->
-![header](https://github.com/shantanutewari12/shantanutewari12/blob/main/github-header-image%20(1).png)
-
-<br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=shantanutewari12&label=Profile+views&color=7F77DD&style=flat" alt="profile views" />
-
-<br/><br/>
 
 # Hey there, I'm Shantanu Tiwari 👋
 
