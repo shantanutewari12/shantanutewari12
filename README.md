@@ -107,13 +107,7 @@ const shantanu = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shantanutewari12&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
